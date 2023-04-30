@@ -26,3 +26,4 @@ for i in device_ip:
     print()
     print(result.decode('UTF-8'))
     child.sendline('exit')
+    
